@@ -90,10 +90,7 @@ You can play around with the `TESTING` folder.
 - [Aditya Mishra](https://github.com/AdityaMishraOG)
 - [Hardik Kalia](https://github.com/hardikkalia)
 - [Tejas Cavale](https://github.com/Tele29)
-
-# References
-  <a href="https://chat.openai.com/share/2d643ad0-587f-4fa7-93f5-2c7f51409ab2" target="_blank">ChatGPT Link</a>
-
+  
 # Notes
 The implementation of a storage server is very flexible for `accessible paths` -
 
